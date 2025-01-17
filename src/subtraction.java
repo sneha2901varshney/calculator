@@ -12,6 +12,6 @@ public class subtraction {
         System.out.println("Enter value of 3rd number ::");
         int num3 = sc.nextInt();
 
-        System.out.println("Sum of the given two numbers: "+(num1-num2-num3));
+        System.out.println("difference of the given three numbers: "+(num1-num2-num3));
     }
 }
